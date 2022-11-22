@@ -536,13 +536,36 @@ Gateway)
 
   ---
 
-  ### Recommended Reading AWS Documentation to read:
+  ### Recommended Reading AWS Documentation:
 
 1. [AWS WellArchitected Framework](https://docs.aws.amazon.com/pdfs/wellarchitected/latest/framework/wellarchitected-framework.pdf#welcome)
-   - Six Pillars
+    <details><summary>Six Pillars</summary>
+
      - [Operational Excellence Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/pdfs/wellarchitected/latest/operational-excellence-pillar/wellarchitected-operational-excellence-pillar.pdf#welcome)
      - [Security Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/pdfs/wellarchitected/latest/security-pillar/wellarchitected-security-pillar.pdf#welcome)
      - [Reliability Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/pdfs/wellarchitected/latest/reliability-pillar/wellarchitected-reliability-pillar.pdf#welcome)
      - [Performance Efficiency Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/pdfs/wellarchitected/latest/performance-efficiency-pillar/wellarchitected-performance-efficiency-pillar.pdf#welcome)
      - [Cost Optimization Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/pdfs/wellarchitected/latest/cost-optimization-pillar/wellarchitected-cost-optimization-pillar.pdf#welcome)
      - [Sustainability Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/pdfs/wellarchitected/latest/sustainability-pillar/wellarchitected-sustainability-pillar.pdf#sustainability-pillar)
+  
+    </details>
+2. AWS Technology FAQ's
+   <details><summary>AMAZON FAQS</summary>
+   
+   - [Amazon EC2](https://aws.amazon.com/ec2/faqs/)
+   - [Amazon Auto Scaling](https://aws.amazon.com/autoscaling/faqs/)
+   - [Amazon VPC](https://aws.amazon.com/vpc/faqs/)
+   - [Amazon S3](https://aws.amazon.com/s3/faqs)
+   - [Amazon Elastic Block Store](https://aws.amazon.com/ebs/faqs/)
+   - [Amazon Elastic File System](https://aws.amazon.com/efs/faq/)
+   - [Amazon Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/faqs/)
+   - [Amazon Route 53](https://aws.amazon.com/route53/faqs/)
+   - [Amazon Storage Gateway](https://aws.amazon.com/storagegateway/faqs/)
+   - [Amazon Organizations](https://aws.amazon.com/organizations/faqs/)
+   - [Amazon Identity and Access Management (IAM)](https://aws.amazon.com/iam/faqs/)
+   - [Amazon Relational Database Service(RDS)](https://aws.amazon.com/rds/faqs/)
+   - [Amazon CloudFront](https://aws.amazon.com/cloudfront/faqs)
+   - [Amazon SQS](https://aws.amazon.com/sqs/faqs/)
+   - [Amazon SNS](https://aws.amazon.com/sns/faqs/)
+  
+   </details>
